@@ -1,0 +1,105 @@
+<recipe name = "Tacos" type = "Main Course" prep = "30 Minutes">
+    <description>A decadent flour based eating utility stuffed with delicious meats and vegetables of hispanic origin.</description>
+    <ingredient amount = "1 pound">Ground Beef</ingredient>
+    <ingredient amount = "1 cup">Water</ingredient>
+    <ingredient amount = "1/4 cup">Taco seasoning mix</ingredient>
+    <ingredient amount = "Hella">Hard or Soft taco shells</ingredient>
+    <ingredient amount = "One">Onion</ingredient>
+    <ingredient amount = "Two">Tomato</ingredient>
+    <ingredient amount = "A handful">Cilantro</ingredient>
+    <step>Cook the ground beef until completely brown, and drain the fat.</step>
+    <step>Next, add 1 cup water and 1/4 cup taco seasoning mix, and stir until combined. Leave on heat to evaporate the water.</step>
+    <step>While the water is boiling off of the meat, go ahead and chop up the two tomatoes, the onion, a the handful of cilantro </step>
+</recipe>
+<recipe name = "Chicken Enchiladas" type = "Main Course" prep = "45 Minutes">
+<description>A great way to use leftover chicken. Even kids love these!</description>
+<ingredient amount = "1 Tablespoon">Butter</ingredient>
+<ingredient amount = "1 Cup">Green Onion</ingredient>
+<ingredient amount = "1 Can">Green Chilis</ingredient>
+<ingredient amount = "1 Can">Cream of Mushroom Soup</ingredient>
+<ingredient amount = "1/2 Cup">Sour Cream</ingredient>
+<ingredient amount = "1 1/2 Cup">Chicken Breast</ingredient>
+<ingredient amount = "1 Cup">Cheddar Cheese</ingredient>
+<ingredient amount = "Six">Flour Tortillas</ingredient>
+<ingredient amount = "1/4 Cup">Milk</ingredient>
+<step>Preheat oven to 350 degrees F (175 degrees C). Lightly grease a large baking dish.</step>
+<step>In a medium saucepan over medium heat, melt the butter and saute the green onion until tender (about 3 to 4 minutes). Add the garlic powder, then stir in the green chiles, cream of mushroom soup and sour cream. Mix well. Reserve 3/4 of this sauce and set aside. To the remaining 1/4 of the sauce in the saucepan, add the chicken and 1/2 cup of shredded Cheddar cheese. Stir together.</step>
+<step>Fill each flour tortilla with the chicken mixture and roll up. Place seam side down in the prepared baking dish.</step>
+<step>In a small bowl combine the reserved 3/4 of the sauce with the milk. Spoon this mixture over the rolled tortillas and top with the remaining 1/2 cup of shredded Cheddar cheese. Bake in the preheated oven for 30 to 35 minutes, or until cheese is bubbly.</step>
+</recipe>
+<recipe name = "Chicken Pot Pie" type = "Main Course" prep = "1 hour, 10 minutes">
+<description>Chicken, pot, and pie. My three favorite things all combined into one dish.</description>
+<ingredient amount = "1 Pound">Chicken breast</ingredient>
+<ingredient amount = "1 Cup">Carrots</ingredient>
+<ingredient amount = "1 Cup">Green peas</ingredient>
+<ingredient amount = "1/3 Cup">Butter</ingredient>
+<ingredient amount = "1/3 Cup">Onion</ingredient>
+<ingredient amount = "1/3 Cup">All-purpose flour</ingredient>
+<ingredient amount = "1/2 Teaspoon">Salt</ingredient>
+<ingredient amount = "1/4 Teaspoon">Black pepper</ingredient>
+<ingredient amount = "1/4 Teaspoon">Celery Seed</ingredient>
+<ingredient amount = "1 3/4 Cup">Chicken broth</ingredient>
+<ingredient amount = "2/3 Cup">Milk</ingredient>
+<ingredient amount = '2 (9")' >Pie Crust</ingredient>
+<step>Preheat oven to 425 degrees F (220 degrees C.)</step>
+<step>In a saucepan, combine chicken, carrots, peas, and celery. Add water to cover and boil for 15 minutes. Remove from heat, drain and set aside.</step>
+<step>In the saucepan over medium heat, cook onions in butter until soft and translucent. Stir in flour, salt, pepper, and celery seed. Slowly stir in chicken broth and milk. Simmer over medium-low heat until thick. Remove from heat and set aside.</step>
+<step>Place the chicken mixture in bottom pie crust. Pour hot liquid mixture over. Cover with top crust, seal edges, and cut away excess dough. Make several small slits in the top to allow steam to escape.</step>
+<step>Bake in the preheated oven for 30 to 35 minutes, or until pastry is golden brown and filling is bubbly. Cool for 10 minutes before serving.</step>
+</recipe>
+<recipe name = "Pumpkin Pancakes" type = "Main Course" prep = "40 minutes">
+<description>These are good any season but taste best on cold winter mornings. You can use canned or cooked fresh pumpkin.</description>
+<ingredient amount = "1 1/2 Cup">Milk</ingredient>
+<ingredient amount = "1 Cup"  prep = "puree">Pumpkin</ingredient>
+<ingredient amount = "1">Egg</ingredient>
+<ingredient amount = "2 Tablespoon">Vegetable Oil</ingredient>
+<ingredient amount = "2 Tablespoon">Vinegar</ingredient>
+<ingredient amount = "2 Cup">All-purpose flour</ingredient>
+<ingredient amount = "3 Tablespoon">Brown Sugar</ingredient>
+<ingredient amount = "2 Teaspoon">Baking Powder</ingredient>
+<ingredient amount = "1 Teaspoon">Baking Soda</ingredient>
+<ingredient amount = "1 Teaspoon" prep = "ground">Allspice</ingredient>
+<ingredient amount = "1 Teaspoon" prep = "ground">Cinnamon</ingredient>
+<ingredient amount = "1/2 Teaspoon" prep = "ground">Ginger</ingredient>
+<ingredient amount = "1/2 Teaspoon">Salt</ingredient>
+<step>In a bowl, mix together the milk, pumpkin, egg, oil and vinegar.</step>
+<step>Combine the flour, brown sugar, baking powder, baking soda, allspice, cinnamon, ginger and salt in a separate bowl.</step>
+<step>Stir into the pumpkin mixture just enough to combine.</step>
+<step>Heat a lightly oiled griddle or frying pan over medium high heat.</step>
+<step>Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake.</step>
+<step>Brown on both sides and serve hot.</step>
+</recipe>
+<recipe name = "Chipotle Crusted Pork Tenderloin" type = "Main Course" prep = "35 minutes">
+<description>Sweet and spicy rub for pork tenderloins. Just coat, let stand for 20 minutes and grill! Goes great with polenta or mashed yams.</description>
+<ingredient amount = "2 (3/4 pound)">Pork Tenderloins</ingredient>
+<ingredient amount = "4 Tablespoon">Brown Sugar</ingredient>
+<ingredient amount = "1/2 Teaspoon">Salt</ingredient>
+<ingredient amount = "1 Teaspoon">Onion Powder</ingredient>
+<ingredient amount = "1 Teaspoon">Garlic Powder</ingredient>
+<ingredient amount = "3 Tablespoon">Chipotle Chili Powder</ingredient>
+<step>Preheat grill for medium-high heat.</step>
+<step>In a large resealable plastic bag, combine the onion powder, garlic powder, chipotle chile powder, salt, and brown sugar. </step>
+<step>Place tenderloins in bag and shake, coating meat evenly. </step>
+<step>Refrigerate for 10 to 15 minutes.</step>
+<step>Lightly oil grill grate, and arrange meat on grate.</step>
+<step>Cook for 20 minutes, turning meat every 5 minutes.</step>
+<step>Remove from grill, let stand for 5 to 10 minutes before slicing.</step>
+</recipe>
+<recipe name = "Rosemary Mashed Potatoes and Yams" type = "Main Course" prep = "2 Hours">
+<description>A twist on the traditional mashed potatoes.</description>
+<ingredient amount = "8 cloves">Garlic</ingredient>
+<ingredient amount = "3 Tablespoon">Olive Oil</ingredient>
+<ingredient amount = "1 1/2 pounds">Baking Potato</ingredient>
+<ingredient amount = "1 1/2 pounds">Yam</ingredient>
+<ingredient amount = "1/2 Cup">Milk</ingredient>
+<ingredient amount = "1/2 Cup">Cheese, Parmesan</ingredient>
+<ingredient amount = "1/4 Cup">Butter</ingredient>
+<ingredient amount = "1/2 Teaspoon">Rosemary, ground</ingredient>
+<ingredient amount = "Hella">Salt and Pepper</ingredient>
+<step>Peel and dice both the potatoes and the yams.</step>
+<step>Preheat oven to 350 degrees F (175 degrees C). Lightly grease an 8 inch square baking dish.</step>
+<step>Place garlic in small ovenproof bowl, and drizzle with olive oil. Roast for 30 minutes, or until very soft. Cool and peel the garlic, and reserve the oil.</step>
+<step>Boil potatoes and yams in a large pot of salted water until tender, about 20 minutes. Drain, reserving 1 cup liquid.</step>
+<step>Place potatoes and yams in a large bowl with milk, butter, rosemary, garlic, and reserved olive oil. Mash to desired consistency, adding reserved cooking liquid as needed. Mix in 1/4 cup cheese. Season with salt and pepper to taste. Transfer to the prepared baking dish. Sprinkle with remaining cheese.</step>
+<step>Bake until heated through and golden on top, about 45 minutes.</step>
+</recipe>

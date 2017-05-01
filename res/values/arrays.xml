@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_cat_array">
+        <item>Recipe</item>
+        <item>Ingredient</item>
+    </string-array>
+    <string-array name="recipeTypes">
+        <item>All</item>
+        <item>Main Course</item>
+        <item>Appetizer</item>
+        <item>Dessert</item>
+        <item>Side Dish</item>
+    </string-array>
+    <string-array name="recipeTypes2">
+        <item>Main Course</item>
+        <item>Appetizer</item>
+        <item>Dessert</item>
+        <item>Side Dish</item>
+    </string-array>
+    <string-array name="recipeTags">
+        <item>All</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Salad</item>
+        <item>Slow Cooker</item>
+        <item>Grilled</item>
+        <item>Baked</item>
+        <item>Fried</item>
+        <item>Healthy</item>
+        <item>Quick and Easy</item>
+    </string-array>
+    <string-array name="recipeTags2">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Salad</item>
+        <item>Slow Cooker</item>
+        <item>Grilled</item>
+        <item>Baked</item>
+        <item>Fried</item>
+        <item>Healthy</item>
+        <item>Quick and Easy</item>
+    </string-array>
+    <string-array name="amountTypes">
+        <item>Teaspoon</item>
+        <item>Tablespoon</item>
+        <item>Cup</item>
+        <item>Ounce</item>
+        <item>Pound</item>
+        <item>Pint</item>
+        <item>Quart</item>
+        <item>Gallon</item>
+        <item>Gram</item>
+        <item>mg</item>
+        <item>mL</item>
+        <item>Liter</item>
+        <item>Whole</item>
+        <item>Can</item>
+    </string-array>
+    <string-array name="ingCat">
+        <item>Vegetables</item>
+        <item>Meats</item>
+        <item>Dairy</item>
+        <item>Grains</item>
+        <item>Misc</item>
+    </string-array>
+</resources>

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Kitchen Bro</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Recipe layout colors -->
+    <string name="title_color">#FF9F80</string>
+    <string name="layout_color">#EEEEEE</string>
+    <string name="prep_color">#F56991</string>
+    <string name="ingredient_layout_color">#FF9F80</string>
+    <string name="ingredient_color">#FFC48C</string>
+    <string name="description_color">#FFC48C</string>
+    <string name="step_color">#F56991</string>
+
+    <!--<string name="title_color">#83AF9B</string>
+    <string name="layout_color">#F9CDAD</string>
+    <string name="prep_color">#FE4365</string>
+    <string name="ingredient_layout_color">#83AF9B</string>
+    <string name="ingredient_color">#C8C8A9</string>
+    <string name="description_color">#C8C8A9</string>
+    <string name="step_color">#FC9D9A</string>-->
+
+    <!--List layout colors-->
+    <string name="list_title_color">#AECC23</string>
+    <string name="list_item_color">#CCCB9C</string>
+    <string name="list_bg_color">#C02942</string>
+
+    <!--Ingredients layout colors-->
+    <string name="vegetables">#87C355</string>
+    <string name="vegetables_layout">#BBE19B</string>
+    <string name="meats">#FD7070</string>
+    <string name="meats_layout">#FEB0B0</string>
+    <string name="dairy">#F3F1CB</string>
+    <string name="dairy_layout">#F7F5EA</string>
+    <string name="grains">#FF9900</string>
+    <string name="grains_layout">#FFCD82</string>
+    <string name="misc">#C18FD1</string>
+    <string name="misc_layout">#CEBCD3</string>
+    <!--Add & Remove mode layouts-->
+    <string name="add">#C6E7C2</string>
+    <string name="remove">#E7C2C5</string>
+
+</resources>
